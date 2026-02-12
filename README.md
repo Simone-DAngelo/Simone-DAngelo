@@ -28,48 +28,25 @@ Here are some ideas to get you started:
 
 ---
 
-<h2 align="center">About</h2>
+## 📚 About
 
-<div align="center">
+I am a Robotics engineer and researcher specializing in **control systems**, **state estimation**, and **robot autonomy**, with a deep focus on **aerial robotics and UAV manipulation**.  
+I currently hold a **Post-doctoral Researcher position in Aerial Robotics** at the **PRISMA Lab**, Department of Electrical Engineering and Information Technology, University of Naples “Federico II”. :contentReference[oaicite:0]{index=0}
 
-<p align="center" style="max-width:750px; font-size:16px;">
-Robotics engineer with a strong focus on <b>control systems</b>, <b>state estimation</b> and <b>autonomous robots</b>.<br><br>
-My work sits at the intersection between <b>theory</b> and <b>real-world deployment</b>, with hands-on experience on
-<b>UAVs</b>, <b>aerial manipulation</b>, and <b>contact-rich robotics</b> using ROS2-based stacks.
-</p>
-
-</div>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>🎓</td>
-    <td><b>Focus</b></td>
-    <td>Robotics, Control, Estimation, Autonomy</td>
-  </tr>
-  <tr>
-    <td>🚁</td>
-    <td><b>Domains</b></td>
-    <td>Aerial Robotics, UAVs, Manipulation</td>
-  </tr>
-  <tr>
-    <td>🛠️</td>
-    <td><b>Approach</b></td>
-    <td>Model-based design → simulation → real systems</td>
-  </tr>
-  <tr>
-    <td>🤝</td>
-    <td><b>Open to</b></td>
-    <td>Research collaborations & advanced engineering projects</td>
-  </tr>
-</table>
-
-</div>
+My research bridges **rigorous theory and practical implementation** on real robotic platforms (both simulated and physical) using ROS2, PX4 ecosystems, and state-of-the-art controllers.
 
 ---
 
-<h2 align="center">Tech Stack</h2>
+## 🏫 Current Position
+
+| Role | Institution |
+|------|-------------|
+| 👨‍🔬 Post-doc Researcher in Aerial Robotics | [PRISMA Lab](<LINK_PRISMA_LAB_REPO_OR_WEBSITE>) — Università di Napoli “Federico II” :contentReference[oaicite:1]{index=1} |
+| 🤝 Collaborator | [PRISMA Drone Team](<LINK_PRISMA_DRONE_TEAM>) |
+
+---
+
+## 🛠️ Expertise & Tools
 
 <div align="center">
 
@@ -85,7 +62,43 @@ My work sits at the intersection between <b>theory</b> and <b>real-world deploym
 
 ---
 
-<h2 align="center">GitHub Activity</h2>
+## 🚀 Selected Projects
+
+Here are a few highlighted repositories and works I contribute to or lead:
+
+### 📌 UAV & Control
+
+- 🔧 **<Project Title 1>** — Custom PX4 controllers for aerial manipulators (ROS2 + Gazebo)  
+  🔗 [<LINK_TO_PROJECT_1>]
+
+- 🛠️ **<Project Title 2>** — Shared Control and Teleoperation for Aerial Manipulation  
+  🔗 [<LINK_TO_PROJECT_2>]
+
+- 📊 **<Project Title 3>** — State Estimation & Control Benchmarks  
+  🔗 [<LINK_TO_PROJECT_3>]
+
+*(Replace above with your most relevant repos — could be in your GitHub or PRISMA Lab org.)*
+
+---
+
+## 📄 Publications
+
+Some representative publications I contributed to:
+
+- ✈️ **D’Angelo, S., et al. (2025)** — *Semi-Autonomous Aerial Platform for Non-Destructive Tests*  
+  🔗 <LINK_PUBLICATION_1> (article in *DRONES*) :contentReference[oaicite:2]{index=2}
+
+- 🤖 **D’Angelo, S., et al. (2024)** — *Efficient Development of Model-Based Controllers in PX4 Firmware*  
+  🔗 <LINK_PUBLICATION_2> (ICUAS ’24) :contentReference[oaicite:3]{index=3}
+
+- 🧠 **<Your 3rd Publication Title>** — <Journal / Conference>  
+  🔗 <LINK_PUBLICATION_3>
+
+*(Add or reorder as needed — use DOIs or IRIS links if possible.)*
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
@@ -101,15 +114,18 @@ My work sits at the intersection between <b>theory</b> and <b>real-world deploym
 
 </div>
 
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Simone-DAngelo&theme=transparent&ring=2f80ed&fire=2f80ed&currStreakLabel=2f80ed" height="190px"/>
-</div>
+---
+
+## 📬 Contact
+
+- 📧 Email: **your.email@domain.com**  
+- 🔗 Website / CV: **<LINK_TO_PERSONAL_WEBSITE_OR_CV>**  
+- 📚 Google Scholar: **<LINK_TO_SCHOLAR_PROFILE>**  
+- 📑 ORCID: **<LINK_ORCID>**  
+- 🐦 Twitter (if any): **<LINK_TWITTER>**
 
 ---
 
-<h3 align="center">
-  Robust control and autonomy for real robotic systems.
-</h3>
+## 🧠 Let’s connect — Research & Engineering
+If you’re interested in **collaboration**, **joint research**, or **advanced engineering challenges in aerial autonomy**, feel free to reach out!
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=120&section=footer"/>
