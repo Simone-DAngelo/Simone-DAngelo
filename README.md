@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,100:203a43&text=Simone%20D'Angelo&fontColor=ffffff&desc=Robotics%20•%20Control%20•%20Aerial%20Robotics%20•%20Autonomy&descAlign=50&fontAlign=50&fontAlignY=45" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,100:203a43&text=Simone%20D'Angelo,%20PhD&fontColor=ffffff&desc=Robotics%20•%20Control%20•%20Aerial%20Robotics%20•%20Autonomy&descAlign=50&fontAlign=50&fontAlignY=45" width="100%" alt="header"/>
 </p>
 
 <div align="center">
